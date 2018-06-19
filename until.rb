@@ -7,6 +7,7 @@ def using_until
     puts "Wingardium Leviosa"
     counter = counter + 1
     puts "Level: #{counter}."
+    puts ""
   end
 end
 using_until
